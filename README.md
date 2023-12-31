@@ -1,4 +1,4 @@
-# iHub-IIT-Roorkee-Certified-XR-Blocks-Course
+# iHub IIT Roorkee Certified XR Blocks Course
 
 <p align="justify"> Certifications in XR often focus on equipping professionals with the skills needed for developing immersive experiences using augmented reality (AR), virtual reality (VR), and mixed reality (MR). Certifying bodies may cover areas such as XR development, 3D modeling, spatial computing, and user experience design.</p>
 
